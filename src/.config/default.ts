@@ -9,24 +9,24 @@ export const defaultConfig: ThemeConfig = {
     subtitle: 'The best arrangement',
     author: 'Chan_Honman',
     description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    website: 'https://blog.honman.top/',
     pageSize: 5,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com',
+        href: 'https://blog.honman.top/',
       },
       {
         name: 'rss',
-        href: '/atom.xml',
+        href: 'https://blog.honman.top/',
       },
       {
         name: 'twitter',
-        href: 'https://github.com',
+        href: 'https://blog.honman.top/',
       },
       {
         name: 'mastodon',
-        href: 'https://github.com',
+        href: 'https://blog.honman.top/',
       },
     ],
     navLinks: [
@@ -49,9 +49,7 @@ export const defaultConfig: ThemeConfig = {
     ],
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
-      '© %year <a target="_blank" href="%website">%author</a>',
-      'Theme <a target="_blank" href="https://github.com/Moeyua/astro-theme-typography">Typography</a> by <a target="_blank" href="https://moeyua.com">Moeyua</a>',
-      'Proudly published with <a target="_blank" href="https://astro.build/">Astro</a>',
+      'Copyright © %year <a target="_blank" href="%website">%author</a> All Rights Reserved',
     ],
   },
   appearance: {
