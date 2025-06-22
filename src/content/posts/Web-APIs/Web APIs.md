@@ -2,7 +2,7 @@
 title: Web APIs笔记
 pubDate: 2023-07-20
 categories: ['Web APIs']
-description: '📒 这篇笔记涵盖Web APIs 的重要性和使用技巧。了解HTTP通信、数据获取和操作。快来探索Web API的奇妙世界'
+description: '这篇笔记涵盖Web APIs 的重要性和使用技巧。了解HTTP通信、数据获取和操作。快来探索Web API的奇妙世界'
 slug: Web APIs Notes
 ---
 
